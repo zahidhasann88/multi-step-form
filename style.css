@@ -6,7 +6,7 @@ font-family: sans-serif;
 }
 body
 {
-  background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(/storage/sdcard0/Practice/multi/banner.jpg);
+  background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(Img/banner.jpg);
   background-position: center;
   background-size: cover;
 }
