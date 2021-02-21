@@ -1,2 +1,2 @@
 # Multi-Step-Fourm
-Multi Step Fourm Using  HTML, CSS, JS
+Multi step form with  HTML, CSS & JS.
